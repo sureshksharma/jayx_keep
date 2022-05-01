@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "757532282424",
+    "project_id": "fir-withprovider-6bd5c",
+    "storage_bucket": "fir-withprovider-6bd5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757532282424:android:d2a9a004af280f4dbd20cd",
+        "android_client_info": {
+          "package_name": "com.example.jayx_keep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757532282424-ij8l4ut49v2glh6g6l6drjcv1gudiskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDctlWe4xXuYBghhCKwdw9kF-z1Q0WWAyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757532282424-ij8l4ut49v2glh6g6l6drjcv1gudiskg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757532282424-6shjoij2ifcm1lr0hknqhcs4dot2mbrs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseUserAvatarFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
